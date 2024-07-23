@@ -1,0 +1,133 @@
+{
+  "hash": "e04eba2e",
+  "configHash": "6bb9ba8d",
+  "lockfileHash": "3bbe2686",
+  "browserHash": "d521fc06",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "3cb313f8",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "d8f834ed",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "b748ed68",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "8f46358f",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "6df0fe69",
+      "needsInterop": false
+    },
+    "primeng/rating": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-rating.mjs",
+      "file": "primeng_rating.js",
+      "fileHash": "5c8b3e6f",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "4c2208d1",
+      "needsInterop": false
+    },
+    "primeng/paginator": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-paginator.mjs",
+      "file": "primeng_paginator.js",
+      "fileHash": "f87ad347",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "65cc96f5",
+      "needsInterop": false
+    },
+    "primeng/dialog": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-dialog.mjs",
+      "file": "primeng_dialog.js",
+      "fileHash": "ecba65a0",
+      "needsInterop": false
+    },
+    "primeng/api": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-api.mjs",
+      "file": "primeng_api.js",
+      "fileHash": "22d56073",
+      "needsInterop": false
+    },
+    "primeng/button": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
+      "file": "primeng_button.js",
+      "fileHash": "5809c872",
+      "needsInterop": false
+    },
+    "primeng/toast": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-toast.mjs",
+      "file": "primeng_toast.js",
+      "fileHash": "3bca5080",
+      "needsInterop": false
+    },
+    "primeng/confirmpopup": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-confirmpopup.mjs",
+      "file": "primeng_confirmpopup.js",
+      "fileHash": "b2fdf7f1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FP7NNUM3": {
+      "file": "chunk-FP7NNUM3.js"
+    },
+    "chunk-6SQWBH35": {
+      "file": "chunk-6SQWBH35.js"
+    },
+    "chunk-PJUBOJHE": {
+      "file": "chunk-PJUBOJHE.js"
+    },
+    "chunk-XZKNKDX2": {
+      "file": "chunk-XZKNKDX2.js"
+    },
+    "chunk-JYADUVRQ": {
+      "file": "chunk-JYADUVRQ.js"
+    },
+    "chunk-NPFPPG33": {
+      "file": "chunk-NPFPPG33.js"
+    },
+    "chunk-ZIJHFXXP": {
+      "file": "chunk-ZIJHFXXP.js"
+    },
+    "chunk-N3XZSRQM": {
+      "file": "chunk-N3XZSRQM.js"
+    },
+    "chunk-EDRWA4LP": {
+      "file": "chunk-EDRWA4LP.js"
+    },
+    "chunk-DVAT4GAQ": {
+      "file": "chunk-DVAT4GAQ.js"
+    },
+    "chunk-GDJYTDNU": {
+      "file": "chunk-GDJYTDNU.js"
+    },
+    "chunk-PDAGKNML": {
+      "file": "chunk-PDAGKNML.js"
+    },
+    "chunk-ZM642NCP": {
+      "file": "chunk-ZM642NCP.js"
+    }
+  }
+}

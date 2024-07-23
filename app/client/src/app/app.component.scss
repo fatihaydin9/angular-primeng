@@ -1,0 +1,7 @@
+.wrapper {
+  height: auto;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  flex-grow: 1; // for wrapper in order to consume the rest of the space
+}
